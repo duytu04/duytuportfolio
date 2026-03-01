@@ -20,7 +20,7 @@ const Contact: React.FC = () => {
                         <div className="contact-links">
                             <a href="mailto:duytu78204@gmail.com" className="contact-item">
                                 <Mail className="accent-text" />
-                                <span>duytu78204@gmail.com</span>
+                                <span>duytu178204@gmail.com</span>
                             </a>
                             <a href="tel:0979401426" className="contact-item">
                                 <Phone className="accent-text" />
